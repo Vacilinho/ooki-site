@@ -5,9 +5,9 @@ export function Contact() {
   return (
     <section id="contact" className="border-t border-border/40 px-4 py-20 sm:px-6 lg:px-8">
       <div className="mx-auto max-w-2xl text-center">
-        <h2 className="text-3xl font-bold text-foreground mb-4">Let's Work Together</h2>
+        <h2 className="text-3xl font-bold text-foreground mb-4">Let&apos;s Work Together</h2>
         <p className="text-foreground/70 mb-8 leading-relaxed">
-          I'm always interested in hearing about new projects and opportunities. Feel free to reach out if you'd like to
+          I&apos;m always interested in hearing about new projects and opportunities. Feel free to reach out if you&apos;d like to
           collaborate or just say hello!
         </p>
 

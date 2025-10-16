@@ -7,8 +7,8 @@ export function About() {
             <h2 className="text-3xl font-bold text-foreground mb-6">About Me</h2>
             <div className="space-y-4 text-foreground/70 leading-relaxed">
               <p>
-                I'm a passionate frontend developer with a keen eye for design and a love for clean, maintainable code.
-                With over 5 years of experience building web applications, I've developed a strong foundation in modern
+                I&apos;m a passionate frontend developer with a keen eye for design and a love for clean, maintainable code.
+                With over 5 years of experience building web applications, I&apos;ve developed a strong foundation in modern
                 web technologies.
               </p>
               <p>
@@ -16,7 +16,7 @@ export function About() {
                 focus on creating intuitive user interfaces that solve real problems and delight users.
               </p>
               <p>
-                When I'm not coding, you can find me exploring new design trends, contributing to open-source projects,
+                When I&apos;m not coding, you can find me exploring new design trends, contributing to open-source projects,
                 or sharing knowledge with the developer community.
               </p>
             </div>
